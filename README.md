@@ -1,7 +1,8 @@
 # Pneumonia-detection-based-on-X-ray-images
+A deep learning project aimed at detecting pneumonia from chest X-ray images.
 
 ## Overview
-This repository contains a machine learning project aimed at detecting pneumonia from chest X-ray images using convolutional neural networks (CNNs). The project leverages TensorFlow and Keras for building and training models, including a custom CNN architecture and a fine-tuned pre-trained ResNet152V2 model. The dataset used comprises chest X-ray images labeled as 'Normal' and 'Pneumonia', and the models are trained, evaluated, and fine-tuned to achieve high accuracy in classifying these images. This work exemplifies the application of deep learning in medical imaging, contributing to the field of automated diagnostic tools.
+This repository contains a deep learning project aimed at detecting pneumonia from chest X-ray images using convolutional neural networks (CNNs). The project leverages TensorFlow and Keras for building and training models, including a custom CNN architecture and a fine-tuned pre-trained ResNet152V2 model. The dataset used comprises chest X-ray images labeled as 'Normal' and 'Pneumonia', and the models are trained, evaluated, and fine-tuned to achieve high accuracy in classifying these images. This work exemplifies the application of deep learning in medical imaging, contributing to the field of automated diagnostic tools.
 
 ## Models
 - Custom CNN Model
