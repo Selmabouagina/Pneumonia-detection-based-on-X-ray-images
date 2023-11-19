@@ -9,7 +9,7 @@ This repository contains a machine learning project aimed at detecting pneumonia
 
 ## Data
 The dataset consists of chest X-ray images categorized into 'Normal' and 'Pneumonia'. Images are split into training, validation, and test sets.
-Dataset Source: [Chest X-Ray (Pneumonia) with CNN] https://www.kaggle.com/code/hossamgalal68/chest-x-ray-pneumonia-with-cnn/data
+This dataset can be accessed from Kaggle at the following URL: (Chest X-Ray (Pneumonia) with CNN) [https://www.kaggle.com/code/hossamgalal68/chest-x-ray-pneumonia-with-cnn/data].
 
 ### Prerequisites
 - Python 3.x
